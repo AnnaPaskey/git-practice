@@ -1,2 +1,2 @@
-# java-projects
-This repository will contain projects specifically used in Java
+# git-practice
+This repository will contain my practice of using GitHub and its tools
